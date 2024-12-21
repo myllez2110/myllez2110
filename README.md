@@ -1,16 +1,16 @@
-## Hi there 👋
+# Bem-vindo ao meu perfil! 👋
 
-<!--
-**myllez2110/myllez2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- 💻 Desenvolvedor apaixonado por tecnologia.
+- 🚀 Atualmente trabalhando em projetos com **React** e **Spring Boot**.
+- 🎯 Sempre aprendendo e explorando novas ferramentas.
 
-Here are some ideas to get you started:
+## Contato
+- 📧 Email: seuemail@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/danielrbaptista/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=myllez2110&show_icons=true&theme=dracula)
+
+## Linguagens mais usadas
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=myllez2110&layout=compact&theme=dracula)
