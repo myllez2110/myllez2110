@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A devoted full-stack developer</h3>
 
-- 🔭 I’m currently working on [infinitycities](https://github.com/myllez2110/infinitycities)
+- 🔭 I’m currently working on [keepAnon](https://github.com/myllez2110/keepAnon)
 
 - 🌱 I’m currently learning **React, Django and Spring Tools.**
 
 - 📫 How to reach me **danielbaptista2005@gmail.com**
 
 - ☕ Know me better: [curriculum](https://github.com/myllez2110/myllez2110/blob/main/danielcurriculum.pdf)
-
+- ☕ Know me better: [Portfolio (WIP)](https://github.com/myllez2110/myllez2110/myllezportfolio)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/danielrbaptista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielrbaptista" height="30" width="40" /></a>
