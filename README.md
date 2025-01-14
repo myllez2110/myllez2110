@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A devoted full-stack developer</h3>
 
-- 🔭 I’m currently working on [keepAnon](https://github.com/myllez2110/keepAnon)
+- 🔭 I’m currently working on [Furia.gg clone](https://github.com/myllez2110/furia-clone)
 
 - 🌱 I’m currently learning **React, Django and Spring Tools.**
 
