@@ -8,7 +8,7 @@
 - 📫 How to reach me **danielbaptista2005@gmail.com**
 
 - ☕ Know me better: [curriculum](https://github.com/myllez2110/myllez2110/blob/main/danielcurriculum.pdf)
-- ☕ Know me better: [Portfolio (WIP)](https://github.com/myllez2110/myllez2110/myllezportfolio)
+- ☕ Know me better: [Portfolio (WIP)](https://myllez2110.github.io/myllezportfolio/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/danielrbaptista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielrbaptista" height="30" width="40" /></a>
