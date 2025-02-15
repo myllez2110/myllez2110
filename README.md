@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A devoted full-stack developer</h3>
 
-- 🔭 I’m currently working on [minTodo](https://github.com/myllez2110/minTodo)
+- 🔭 I’m currently working on [Jayd](https://github.com/myllez2110/Jayd)
 
 - 🌱 I’m currently learning **React, Django and Spring Tools.**
 
